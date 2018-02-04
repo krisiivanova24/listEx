@@ -1,0 +1,7 @@
+C:\Users\hristo\source\repos\listOrMasiv\stingLikeMasiv\bin\Debug\stingLikeMasiv.exe.config
+C:\Users\hristo\source\repos\listOrMasiv\stingLikeMasiv\bin\Debug\stingLikeMasiv.exe
+C:\Users\hristo\source\repos\listOrMasiv\stingLikeMasiv\bin\Debug\stingLikeMasiv.pdb
+C:\Users\hristo\source\repos\listOrMasiv\stingLikeMasiv\obj\Debug\stingLikeMasiv.csprojResolveAssemblyReference.cache
+C:\Users\hristo\source\repos\listOrMasiv\stingLikeMasiv\obj\Debug\stingLikeMasiv.csproj.CoreCompileInputs.cache
+C:\Users\hristo\source\repos\listOrMasiv\stingLikeMasiv\obj\Debug\stingLikeMasiv.exe
+C:\Users\hristo\source\repos\listOrMasiv\stingLikeMasiv\obj\Debug\stingLikeMasiv.pdb

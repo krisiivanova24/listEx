@@ -1,0 +1,6 @@
+C:\Users\hristo\source\repos\listOrMasiv\list\bin\Debug\list.exe.config
+C:\Users\hristo\source\repos\listOrMasiv\list\bin\Debug\list.exe
+C:\Users\hristo\source\repos\listOrMasiv\list\bin\Debug\list.pdb
+C:\Users\hristo\source\repos\listOrMasiv\list\obj\Debug\list.csproj.CoreCompileInputs.cache
+C:\Users\hristo\source\repos\listOrMasiv\list\obj\Debug\list.exe
+C:\Users\hristo\source\repos\listOrMasiv\list\obj\Debug\list.pdb

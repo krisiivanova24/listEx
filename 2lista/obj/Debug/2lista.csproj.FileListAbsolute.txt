@@ -1,0 +1,6 @@
+C:\Users\hristo\source\repos\listOrMasiv\2lista\bin\Debug\2lista.exe.config
+C:\Users\hristo\source\repos\listOrMasiv\2lista\bin\Debug\2lista.exe
+C:\Users\hristo\source\repos\listOrMasiv\2lista\bin\Debug\2lista.pdb
+C:\Users\hristo\source\repos\listOrMasiv\2lista\obj\Debug\2lista.csproj.CoreCompileInputs.cache
+C:\Users\hristo\source\repos\listOrMasiv\2lista\obj\Debug\2lista.exe
+C:\Users\hristo\source\repos\listOrMasiv\2lista\obj\Debug\2lista.pdb

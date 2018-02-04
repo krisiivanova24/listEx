@@ -1,0 +1,7 @@
+C:\Users\hristo\source\repos\listOrMasiv\imena\bin\Debug\imena.exe.config
+C:\Users\hristo\source\repos\listOrMasiv\imena\bin\Debug\imena.exe
+C:\Users\hristo\source\repos\listOrMasiv\imena\bin\Debug\imena.pdb
+C:\Users\hristo\source\repos\listOrMasiv\imena\obj\Debug\imena.csproj.CoreCompileInputs.cache
+C:\Users\hristo\source\repos\listOrMasiv\imena\obj\Debug\imena.exe
+C:\Users\hristo\source\repos\listOrMasiv\imena\obj\Debug\imena.pdb
+C:\Users\hristo\source\repos\listOrMasiv\imena\obj\Debug\imena.csprojResolveAssemblyReference.cache

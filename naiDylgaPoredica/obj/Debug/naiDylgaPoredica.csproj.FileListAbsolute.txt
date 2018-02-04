@@ -1,0 +1,6 @@
+C:\Users\hristo\source\repos\listOrMasiv\naiDylgaPoredica\bin\Debug\naiDylgaPoredica.exe.config
+C:\Users\hristo\source\repos\listOrMasiv\naiDylgaPoredica\bin\Debug\naiDylgaPoredica.exe
+C:\Users\hristo\source\repos\listOrMasiv\naiDylgaPoredica\bin\Debug\naiDylgaPoredica.pdb
+C:\Users\hristo\source\repos\listOrMasiv\naiDylgaPoredica\obj\Debug\naiDylgaPoredica.csproj.CoreCompileInputs.cache
+C:\Users\hristo\source\repos\listOrMasiv\naiDylgaPoredica\obj\Debug\naiDylgaPoredica.exe
+C:\Users\hristo\source\repos\listOrMasiv\naiDylgaPoredica\obj\Debug\naiDylgaPoredica.pdb

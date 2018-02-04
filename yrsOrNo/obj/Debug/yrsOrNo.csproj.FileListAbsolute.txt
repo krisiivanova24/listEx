@@ -1,0 +1,6 @@
+C:\Users\hristo\source\repos\listOrMasiv\yrsOrNo\obj\Debug\yrsOrNo.csproj.CoreCompileInputs.cache
+C:\Users\hristo\source\repos\listOrMasiv\yrsOrNo\bin\Debug\yrsOrNo.exe.config
+C:\Users\hristo\source\repos\listOrMasiv\yrsOrNo\bin\Debug\yrsOrNo.exe
+C:\Users\hristo\source\repos\listOrMasiv\yrsOrNo\bin\Debug\yrsOrNo.pdb
+C:\Users\hristo\source\repos\listOrMasiv\yrsOrNo\obj\Debug\yrsOrNo.exe
+C:\Users\hristo\source\repos\listOrMasiv\yrsOrNo\obj\Debug\yrsOrNo.pdb

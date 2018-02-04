@@ -1,0 +1,6 @@
+C:\Users\hristo\source\repos\listOrMasiv\sortirane\bin\Debug\sortirane.exe.config
+C:\Users\hristo\source\repos\listOrMasiv\sortirane\bin\Debug\sortirane.exe
+C:\Users\hristo\source\repos\listOrMasiv\sortirane\bin\Debug\sortirane.pdb
+C:\Users\hristo\source\repos\listOrMasiv\sortirane\obj\Debug\sortirane.csproj.CoreCompileInputs.cache
+C:\Users\hristo\source\repos\listOrMasiv\sortirane\obj\Debug\sortirane.exe
+C:\Users\hristo\source\repos\listOrMasiv\sortirane\obj\Debug\sortirane.pdb

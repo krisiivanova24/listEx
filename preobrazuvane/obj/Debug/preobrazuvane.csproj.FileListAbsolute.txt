@@ -1,0 +1,7 @@
+C:\Users\hristo\source\repos\listOrMasiv\preobrazuvane\obj\Debug\preobrazuvane.csproj.CoreCompileInputs.cache
+C:\Users\hristo\source\repos\listOrMasiv\preobrazuvane\bin\Debug\preobrazuvane.exe.config
+C:\Users\hristo\source\repos\listOrMasiv\preobrazuvane\bin\Debug\preobrazuvane.exe
+C:\Users\hristo\source\repos\listOrMasiv\preobrazuvane\bin\Debug\preobrazuvane.pdb
+C:\Users\hristo\source\repos\listOrMasiv\preobrazuvane\obj\Debug\preobrazuvane.exe
+C:\Users\hristo\source\repos\listOrMasiv\preobrazuvane\obj\Debug\preobrazuvane.pdb
+C:\Users\hristo\source\repos\listOrMasiv\preobrazuvane\obj\Debug\preobrazuvane.csprojResolveAssemblyReference.cache
